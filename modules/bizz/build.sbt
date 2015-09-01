@@ -1,6 +1,6 @@
 scalaVersion := "2.11.5"
 
-name := "examples"
+name := "bizz"
 
 version := "1.0"
 
