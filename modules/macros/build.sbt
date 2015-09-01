@@ -1,7 +1,5 @@
 scalaVersion := "2.11.5"
-
 name := "macros"
-
 version := "1.0"
 
 resolvers ++= Seq("snapshots", "releases").map(Resolver.sonatypeRepo)
